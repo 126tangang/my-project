@@ -9,8 +9,6 @@ import exercise.demo3.bean.Customer;
 import exercise.demo3.service.CustomerList;
 import exercise.demo3.utility.CMUtility;
 
-import javax.sound.midi.Soundbank;
-
 /**
  * CustomerView为主模块,负责菜单的显示和处理用户操作
  */
